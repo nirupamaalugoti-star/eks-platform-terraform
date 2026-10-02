@@ -1,0 +1,21 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+crash.log
+override.tf
+override.tf.json
+
+# Secrets / local env
+.env
+*.pem
+*.key
+
+# OS/editor noise
+.DS_Store
+.vscode/
+*.swp
+

@@ -1,0 +1,5 @@
+apiVersion: v2
+name: sample-app
+description: Sample app for the EKS platform portfolio project
+version: 0.1.0
+appVersion: "1.0"
